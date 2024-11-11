@@ -62,4 +62,4 @@ cd ML-Student-Performance-Predictor
 
 ### 📚 References
 
-Cortez, Paulo. (2014). Student Performance. UCI Machine Learning Repository. [Link](https://doi.org/10.24432/C5TG7T)
+Cortez, Paulo. UCI Machine Learning Repository. [Link](https://doi.org/10.24432/C5TG7T)
